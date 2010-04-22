@@ -1,0 +1,13 @@
+1. static pages are not bumped down enough
+2. lorem ipsum on the side bar
+3. need a list of blog posts
+4. need stats
+5. need partners
+6. need badges
+7. need baseline alignment
+8. need better lateral spacing
+9. Internet Explorer. 
+
+
+http://www.google.com/support/blogger/bin/answer.py?answer=46995
+http://www.google.com/support/blogger/bin/answer.py?hl=en&answer=46888

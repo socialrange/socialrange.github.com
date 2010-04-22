@@ -1,3 +1,8 @@
+<html>
+  <body>
+    <!-- This is just some snippet code that may or may not be used in the 
+         future, best to ignore it for now -->
+
     <div id='content-wrapper'>
       <div id='crosscol-wrapper' style='text-align:center'>
         <b:section class='crosscol' id='crosscol'>
@@ -530,4 +535,7 @@
               </b:widget>
             </b:section>
           </div>
-
+        </div>  
+     </div>
+  </body>
+</html>
