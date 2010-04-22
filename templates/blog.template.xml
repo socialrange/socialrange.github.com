@@ -630,24 +630,26 @@ ul.home-posts a {
           <div class="promo" style="height:280px">
             <div class="section" style="padding-right:36px;">
               <ul class="links">
-                <li><a href="/who/is/social/range">Who is Social Range?</a></li>
+                <li><a href="/p/who-are-we.html">Who is Social Range?</a></li>
+                <!--
                 <li><a href="/how/social/range/works">How We Work</a></li>
                 <li><a href="/press">Press &amp; Reports</a></li>            
                 <li><a href="/press">Awards</a></li>            
+                -->
               </ul>
             </div>
             <div class="section" style="padding-right:36px;">
               <ul class="links">
-                <li><a href="/terms">Terms of Service</a></li>
-                <li><a href="/privacy">Privacy Policy</a></li>
-                <li><a href="/copyright">Copyright Policy</a></li>
+                <li><a href="/p/terms-of-service.html">Terms of Service</a></li>
+                <li><a href="/p/privacy-policy.html">Privacy Policy</a></li>
+                <li><a href="/p/copyright-policy.html">Copyright Policy</a></li>
               </ul>
             </div>
             <div class="section" style="padding-right:36px;">
               <ul class="links">
-                <li><a href="/support">Help &amp; Support</a></li>
-                <li><a href="/donors">Donors</a></li>            
-                <li><a href="/jobs">Jobs</a></li>            
+                <li><a href="mailto:support@socialrange.org">Help &amp; Support</a></li>
+                <!--<li><a href="/donors">Donors</a></li>-->
+                <li><a href="/p/jobs.html">Jobs</a></li>            
               </ul>
             </div>
             <div class="section" style="width:414px">
