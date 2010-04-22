@@ -734,6 +734,7 @@ ul.home-posts a {
           });
 
           function relative_time(time_value) {
+            time_value = time_value.replace("+0000", "GMT");
             var parsed_date = Date.parse(time_value);
             var relative_to = (arguments.length > 1) ? arguments[1] : new Date();
             var delta = parseInt((relative_to.getTime() - parsed_date) / 1000);
@@ -774,7 +775,6 @@ ul.home-posts a {
               mode = 'user'
             }
             if (s.loading_text) $(this).append(loading);
-              console.log(url );
             $.getJSON(url, function(data){
               if (s.loading_text) loading.remove();
               if (s.intro_text) list.before(intro);
